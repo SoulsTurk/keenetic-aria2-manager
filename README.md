@@ -2,6 +2,7 @@
 
 [![EN](https://img.shields.io/badge/🇬🇧-English-blue)](README_EN.md)
 [![TR](https://img.shields.io/badge/🇹🇷-Türkçe-red)](README.md)
+[![RU](https://img.shields.io/badge/🇷🇺-Русский-blue)](README_RU.md)
 
 </div>
 
